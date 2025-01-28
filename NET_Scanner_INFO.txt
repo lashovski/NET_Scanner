@@ -1,2 +1,2 @@
 This is automated script for scanning network using Linux OS
-To stasrt the script run "python NET_Scanner.py -i (ip_address_range)" Example: 10.0.2.1/24 
+To start the script run "python NET_Scanner.py -i (ip_address_range)" Example: 10.0.2.1/24 
